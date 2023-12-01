@@ -1,13 +1,6 @@
-<table>
-  <tr>
-    <td>
-
-#### Hello
+#### Hello👋
 
 <img src="https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc~.webp&w=1080&q=75" style="width: 100%; height: auto" />
-
-    </td>
-    <td>
 
 #### Some Basics
 
@@ -20,12 +13,7 @@
     }
 </pre>
 
-
-    </td>
-  </tr>
-</table>
-
-***
+#### Github Stats
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marknenadov)](https://github.com/marknenadov/github-readme-stats)
 
