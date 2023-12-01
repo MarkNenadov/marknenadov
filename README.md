@@ -1,6 +1,6 @@
-![image](https://github.com/MarkNenadov/marknenadov/assets/658303/afa50981-1c2d-4fa1-9c36-ca60ba11d652)#### Hello👋
+#### Hello👋
 
-<img src="https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc29f803.webp&w=1080&q=75" style="width: 100%; height: auto" />
+<img src="https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc29f803.webp&w=1080&q=75" style="width: 40%; height: auto" />
 
 https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc29f803.webp&w=1080&q=75
 
