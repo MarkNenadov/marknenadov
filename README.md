@@ -13,6 +13,15 @@
     }
 </pre>
 
+#### Stack
+
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
 #### Github Stats
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marknenadov)](https://github.com/marknenadov/github-readme-stats)
