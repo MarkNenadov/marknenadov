@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  />
+<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white"  />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -25,8 +26,11 @@
       "name" : "Mark Nenadov",
       "about" : "Software engineer passionate about building software and growing teams",
       "gigs" : {
-          "present": "Senior Software Developer @ Wealthsimple", 
-          "previous": "CTO @ BorderConnect"
+          "presentRole": "Senior Software Developer @ Wealthsimple (2023-Present)", 
+          "previousRoles": [
+                "CTO @ BorderConnect (2019-2023)",
+                "Senior Software Developer @ BorderConnect (2011-2019)"
+          ]
       },
      "technicalReviewCredits" : [
         {
