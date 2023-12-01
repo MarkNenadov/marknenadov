@@ -4,6 +4,10 @@
     <img src="https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc29f803.webp&w=1080&q=75" style="width: 50%; height: auto" />
   </div>
   <div>
+    [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marknenadov)](https://github.com/marknenadov/github-readme-stats)
+  </div>
+</div>
+
     <h3>About Me:</h3>
     <pre>
     {
@@ -13,8 +17,6 @@
       "languages": ["Kotlin", "Java", "Ruby", "Python"]
     }
     </pre>
-  </div>
-</div>
 
 What I'm Up To:
 * Dev @ Wealthsimple
@@ -23,5 +25,3 @@ What I'm Up To:
 * Finding cool birds
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marknenadov)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marknenadov)](https://github.com/marknenadov/github-readme-stats)
