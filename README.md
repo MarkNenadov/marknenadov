@@ -4,7 +4,7 @@
     <img src="https://marknenadov.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmark-interests.dc29f803.webp&w=1080&q=75" style="width: 50%; height: auto" />
   </div>
   <div>
-<h3>What I'm Up To:</h3>>
+<h3>What I'm Up To:</h3>
     <pre>
       [
         "Dev @ Wealthsimple",
