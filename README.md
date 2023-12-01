@@ -6,7 +6,7 @@ About Me:
 ```
 {
   "name" : "Mark Nenadov",
-  "about" : "A curious software engineer with a broad range of experience, leaning into life-long learning. Passionate about building quality software and growing thriving teams through example, mentorship, and sharing knowledge."
+  "about" : "Curious software engineer. Passionate about building quality software and growing quality teams",
   "recentExperience" : ["Senior Software Developer @ Wealthsimple", "CTO @ BorderConnect"],
   "languages": ["Kotlin", "Java", "Ruby", "Python"],
   
@@ -19,4 +19,4 @@ What I'm Up To:
 * Reading
 * Finding cool birds
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marknenadov)](https://github.com/anuraghazra/github-readme-stats)
