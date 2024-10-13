@@ -21,43 +21,4 @@
 </td>
 </tr></table>
 
-<pre>
-    {
-      "name" : "Mark Nenadov",
-      "about" : "Software engineer passionate about building software and growing teams",
-      "gigs" : {
-          "presentRole": "Senior Software Developer @ Wealthsimple (2023-Present)", 
-          "previousRoles": [
-                "CTO @ BorderConnect (2019-2023)",
-                "Senior Software Developer @ BorderConnect (2011-2019)"
-          ]
-      },
-     "technicalReviewCredits" : [
-        {
-          "title" : "API Design Patterns",
-          "publisher" : "Manning",
-          "year" : 2021
-        },
-        {
-          "title" : "Unit Testing Principles, Practices, and Patterns",
-          "publisher" : "Manning",
-          "year" : 2020
-        },
-        {
-          "title" : "Pro JavaScript Techniques",
-          "publisher" : "Apress",
-          "year" : 2015
-        },
-        {
-          "title" : "XML and PHP",
-          "publisher" : "New Riders",
-          "year" : 2002
-        }
-      ]
-    }
-</pre>
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marknenadov)](https://github.com/anuraghazra/github-readme-stats)
